@@ -1,2 +1,4 @@
-# OPCAHF
-CAHF-Community Activated Hard Fork (Against EIP649 &amp; POS Change)
+# #OP_CAHF
+to-do
+# EIP649 & Metropolis POS & CAHF FAQ
+to-do
