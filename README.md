@@ -54,8 +54,30 @@ CAHF will be activated "right before" Byzantium HF. We will update the time when
 
 CAHF chain will follow and fork existing rules of the main-chain of ethereum except issurance reduction and POS. We will maintain our POW chain and will be the Ethereum-POW chain(when Ethereum hardforks to POS).
 
-Despite of maintaining "large" network of cryptocurrency costs so many human resources and costs, we will issue 10% of pre-mine inflation for "Develop and 'storing value'" stake.
+Despite of maintaining "large" network of cryptocurrency costs so many human resources and costs, we will issue 10% of pre-mine inflation for "Develop and 'storing value'" stake.(and will be 1% inflation of total supply)
 
 Once we mine our stake 'private' and check that there is no further problem on the chain, we will make our repository 'public' and release our CAHF geth node.(Will be updated to our twitter account)
 
-We share the same belief with some very early Ethereumers, that decentralization means that more than 1 billion people in 200 countries are using Ethereum as a saving currency and payment network, and that it comprises of hundreds of thousands of Ethereum services, traders, exchanges and software to be decentralized.
+Our CAHF developers are serious for monetary policy of CAHF chain and CAHF's total supply will be 1 billion. When CAHF chain has issued total 5 hundread million than we will halving the issurance to 2.5. This decision is from that "Ethereum is not an asset, is a currency".
+
+We share the same belief with some very early Ethereumers, that decentralization means that more than 1 billion people in 200 countries are using Ethereum as a saving currency and payment network, and that it comprises of hundreds of thousands of Ethereum services, traders, exchanges and software to be decentralized. We do not believe that decentralization means a decrease of issurance so there will be no more inflation before POS change or change to POS so some accounts that has larger volume of ethereum takes most of issurance than who doesn't.
+
+### Software development
+
+Currently, there are at least 4 client development teams working on the code of the spec. All of them want to stay quiet and away from the propaganda and troll army of certain companies. They will announce themselves when they feel ready for it. Users will be able to install the software and decide whether to join the CAHF.
+
+The softwares are expected to be ready before late september, and it will be live on testnet by then. 
+
+### References
+
+For other parties in the ecosystem, we recommend detailed research on effects of the EIP649. All Ethereum businesses must be prepared on that day to mitigate or eliminate the risks that EIP649 carries.
+
+1. https://blog.bitmain.com/en/uahf-contingency-plan-uasf-bip148/
+2. https://github.com/digitsu/splitting-bitcoin
+3. http://www.uasf.co/
+4. https://github.com/ethereum/EIPs/issues/186#issuecomment-269902119
+5. https://github.com/ethereum/go-ethereum/pull/15028/commits/b872961ec82ec88a7ac6ef331cfb3eb685ce2c00
+
+### Translations
+
+Translations may be available at transifex
