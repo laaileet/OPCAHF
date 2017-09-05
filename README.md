@@ -10,8 +10,6 @@ POW: POW stands for Proof-of-work ecosystem. A chain or network using POW may co
 
 POS: POS stands for Proof-of-stake ecosystem. A chain or network using POS may consume less energy than POW but may have security risk and less circulation on tokens.
 
-Difficulty-Bomb: 
-
 EIP649 node: a Bitcoin node that has implemented BIP148 consensus rule changes.
 
 EIP649 chain: a blockchain that is valid according to the BIP148 consensus rule changes. BIP148 is a kind of UASF.
