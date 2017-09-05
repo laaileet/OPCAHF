@@ -76,6 +76,4 @@ For other parties in the ecosystem, we recommend detailed research on effects of
 4. https://github.com/ethereum/EIPs/issues/186#issuecomment-269902119
 5. https://github.com/ethereum/go-ethereum/pull/15028/commits/b872961ec82ec88a7ac6ef331cfb3eb685ce2c00
 
-### Translations
 
-Translations may be available at transifex
