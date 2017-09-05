@@ -50,3 +50,12 @@ This plan is for Community Activated Hard Fork, or CAHF. You can find techinical
 
 https://github.com/CAHF/Ethereum-CAHF
 
+CAHF will be activated "right before" Byzantium HF. We will update the time when the blockstamp of Byzantium updates.
+
+CAHF chain will follow and fork existing rules of the main-chain of ethereum except issurance reduction and POS. We will maintain our POW chain and will be the Ethereum-POW chain(when Ethereum hardforks to POS).
+
+Despite of maintaining "large" network of cryptocurrency costs so many human resources and costs, we will issue 10% of pre-mine inflation for "Develop and 'storing value'" stake.
+
+Once we mine our stake 'private' and check that there is no further problem on the chain, we will make our repository 'public' and release our CAHF geth node.(Will be updated to our twitter account)
+
+We share the same belief with some very early Ethereumers, that decentralization means that more than 1 billion people in 200 countries are using Ethereum as a saving currency and payment network, and that it comprises of hundreds of thousands of Ethereum services, traders, exchanges and software to be decentralized.
