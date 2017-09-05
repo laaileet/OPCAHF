@@ -36,3 +36,17 @@ The purpose of this blog post is to announce our CAHF contingency plan for EIP64
 
 ### Why we need a contingency plan against EIP649 and POS change
 
+Later september, The byzantium hard fork including EIP649 will trigger chain split and newer chain including issurance reduction will adopted at higher chances. 
+
+EIP649 is very dangerous for ethereum ecosystem including users and miners. Smaller incentives for mining is equal to smaller payment for security of main chain, and the risk of security caused from decrease of mining hashes may grow up higher. Since miners won't spend their energy or equipments to smaller intensive, they would likely move to another chain before POS change. Therefore, the mining activity behind a Byzantium chain may stop without notice, and investors who buy in the EIP649 propaganda may lose all their investment. Any exchanges that decide to support a Byzantium token after the forking point need to consider the stagnation risk attached to it.
+
+Also decreasing supplyment of ether without POS may cause serious economic problem based on "unplanned" supply such as deflation or other arguements from investors, eventually make investors reconsider their investing activity to ethereum.
+
+Futhermore We, the ethereum holders or miners have a right and 'duty' to 'capture' or 'preserve' our investigation which is the mainnet of ethereum against the risk, we should build a contingency plan for our original chain being attack.
+
+### Protection Plan
+
+This plan is for Community Activated Hard Fork, or CAHF. You can find techinical specs here:
+
+https://github.com/CAHF/Ethereum-CAHF
+
