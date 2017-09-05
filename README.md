@@ -24,4 +24,15 @@ Circulating Supply(Homestead): Circulating Supply(or total amount of released or
 
 Like all Ethereum users knows, Ethereum has passed over several forks including mainnet HF. Several HF that have initiated to Ethereum mainnet caused several consensus between ethereum foundation & miners & the community. Despite that changes of mainnet consensus and protocol updates maintained ethereum's roadmap & inherent value, However, All Hard forks wasn't able to pull all user's agreement. For example, Hardfork that contains refund of The DAO hack occured chain split to the one's who did not updated their protocol(Known as Ethereum-Classic chain), and the hard forked chain(Now the main-net of Ethereum) 
 
-After 1 years later of the chain split, Ethereum's main-net has scheduled to change to Metropolis, and if so main-net chain may pass 2 Hardforks called Byzantium and constantinople hard fork. Before byzantium ethereum main-net chain's mean block time has been increased due to an extreme difficulty increase by a code called Difficulty-Bomb code. It's code's purpose was to give an incentive when 
+After 1 years later of the chain split, Ethereum's main-net has scheduled to change to Metropolis, and if so main-net chain may pass 2 Hardforks called Byzantium and constantinople hard fork. Before byzantium ethereum main-net chain's mean block time has been increased due to an extreme difficulty increase by a code called Difficulty-Bomb code. It's code's purpose was to give an incentive when mainnet hardforks to Byzantium and POS change, eventually abandon original chain with an iceage.
+
+Therefore, In order to delay the difficulty bomb Ethereum Foundation and their dev team have decided to change the codes on Byzantium(EIP649). Meanwhile, they are also changing mining issuance 5 to 3 as they are saying since the mean of the blocktime has decreased issurance of mining will kept the same until ethereum's POS change.
+
+The start of necessity of issuance reduction was started from single anonymous individuals, claming that reduction is needed for reducing the incentives for miners and redicung inflation, eventually cause POS change and would be more "greener" ethereum(see https://github.com/ethereum/EIPs/issues/186).
+
+However, EIP649 including issurance reduction poses a significant risk for the Ethereum ecosystem, so we are preparing a contingency plan to protect the economic activity on the Ethereum blockchain from this threat.
+
+The purpose of this blog post is to announce our CAHF contingency plan for EIP649/Metropolis.
+
+### Why we need a contingency plan against EIP649 and POS change
+
