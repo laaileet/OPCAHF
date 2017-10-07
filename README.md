@@ -55,11 +55,7 @@ CAHF will be activated “right before” Byzantium HF. We will update the speci
 
 CAHF chain will follow and fork existing rules of the Ethereum’s main-chain, except for issuance reduction and POS. We will maintain our POW chain which will be the Ethereum-POW chain (when Ethereum hardforks to POS).
 
-Despite of maintaining “large” network of cryptocurrency costs lots of human resources and other consumption, we will issue 10% of pre-mine inflation for “Develop and ‘storing value’” stake. (This will be 1% inflation of total supply)
-
-Once we mine our stake ‘privately’ and check that there is no further problem on the chain, we will make our repository ‘public’ and release our CAHF geth node. (Will be updated to our twitter account)
-
-Our CAHF developers are serious for monetary policy of CAHF chain therefore we decided CAHF’s total supply approx. 1 billion. When CAHF chain issued total 5 hundred million, we will halve the issuance to 2.5. This decision is from that “Ethereum is not an asset, is a currency”.
+Once we check that there is no further problem on the chain, we will make our repository ‘public’ and release our CAHF geth node. (Will be updated to our twitter account)
 
 We share the same belief with some very early Ethereumers, that decentralization means that more than 1 billion people in 200 countries are using Ethereum as a saving currency and payment network, which comprises of hundreds of thousands of Ethereum services, traders, exchanges and software to be decentralized. We do not believe that decentralization means a decrease of issuance so there will be no more inflation before POS change or change to POS so some accounts that has larger volume of Ethereum takes most of issuance than who doesn’t.
 
