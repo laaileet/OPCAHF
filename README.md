@@ -1,9 +1,8 @@
 # CAHF: A contingency plan against Byzantium HF & POS Change(EIP649)
 ### Releases
 
-Our team is thrilled for releasing go-implementation for Ethereum Vega network!
-We will release weth client when hardfork process ends!
-Follow https://twitter.com/opcahf for upcoming revolution!
+Released WETH client for Ethereum Vega network! https://github.com/EthereumVega/weth/releases/tag/1.8.2
+More info coming soon..
 
 ### Definitions
 HF: ‘HF’ stands for Hardfork. Developers add a mandatory rule set to change the node software. These changes make previously invalid blocks become valid. Nodes/Miners with the rule set changes will follow this chain if they have a consensus.
